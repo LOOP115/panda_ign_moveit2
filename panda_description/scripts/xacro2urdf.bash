@@ -13,7 +13,7 @@ XACRO_ARGS=(
     collision_gripper:=true
     ros2_control:=true
     ros2_control_plugin:=gz
-    ros2_control_command_interface:=effort
+    ros2_control_command_interface:=position
     gazebo_preserve_fixed_joint:=false
 )
 
